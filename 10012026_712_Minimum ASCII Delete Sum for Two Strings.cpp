@@ -1,32 +1,31 @@
-// 10th JAN 2026
 class Solution {
 public:
 int n,m;
-    int solve(int i,int j,string &s1,string &s2,vector<vector<int>>&dp){
-        if(i >= n && j>= m){
-            return 0;
-        }
-        if(i >= n){
-            return s2[j] + solve(i,j+1,s1,s2,dp);
-        }
-        if(j >= m){
-            return s1[i] + solve(i+1,j,s1,s2,dp);
-        }
-        if(dp[i][j] != -1)return dp[i][j];
-        if(s1[i] == s2[j]){
-            return dp[i][j] = solve(i+1,j+1,s1,s2,dp);
-        }
-
-        int del_i = s1[i] + solve(i+1,j,s1,s2,dp);
-        int del_j = s2[j] + solve(i,j+1,s1,s2,dp);
-
-        return dp[i][j] = min(del_i,del_j);
-    }
     int minimumDeleteSum(string s1, string s2){
         n = s1.size();
         m = s2.size();
 
-        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
-        return solve(0,0,s1,s2,dp);
+        vector<vector<int>>dp(n+2,vector<int>(m+2,0));
+
+        for(int i=n;i>=0;i--){
+            for(int j=m;j>=0;j--){
+                if(i == n){
+                    dp[i][j] = s2[j] + dp[i][j+1];
+                }
+                else if(j == m){
+                    dp[i][j] = s1[i] + dp[i+1][j];
+                }
+                else if(s1[i] == s2[j]){
+                    dp[i][j] = dp[i+1][j+1];
+                }
+                else{
+                    int del_i = s1[i] + dp[i+1][j];
+                    int del_j = s2[j] + dp[i][j+1];
+
+                    dp[i][j] = min(del_i,del_j);
+                }
+            }
+        }
+        return dp[0][0];
     }
 };
