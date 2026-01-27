@@ -26,4 +26,5 @@ minimum target 1 year.
 23-01-2026 - Lie to the world and you lie to yourself\
 24-01-2026 - only way out is through\
 25-01-2026 - always forgive your past but never forget your past\
-26-01-2026 - trying t fix something broken keeps you involved in it 
+26-01-2026 - trying to fix something broken keeps you involved in it \
+27-01-2026 - a successful man might not teach you how to succeed but a failed can teach you how not to fail
