@@ -30,4 +30,5 @@ minimum target 1 year.
 27-01-2026 - a successful man might not teach you how to succeed but a failed can teach you how not to fail\
 28-01-2026 - prepare for the worst and hope for the best\
 29-01-2026 - if you think you can do it just go for it\
-30-01-2026 - life is unfair if you belive it to be
+30-01-2026 - life is unfair if you believe it to be\
+31-01-2026 - believe in what you believe in
