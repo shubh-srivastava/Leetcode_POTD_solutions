@@ -31,4 +31,5 @@ minimum target 1 year.
 28-01-2026 - prepare for the worst and hope for the best\
 29-01-2026 - if you think you can do it just go for it\
 30-01-2026 - life is unfair if you believe it to be\
-31-01-2026 - believe in what you believe in
+31-01-2026 - believe in what you believe in\
+01-02-2026 - good things come to those who wait
