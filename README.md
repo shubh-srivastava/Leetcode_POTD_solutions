@@ -32,4 +32,5 @@ minimum target 1 year.
 29-01-2026 - if you think you can do it just go for it\
 30-01-2026 - life is unfair if you believe it to be\
 31-01-2026 - believe in what you believe in\
-01-02-2026 - good things come to those who wait
+01-02-2026 - good things come to those who wait\
+02-02-2026 - doing something is better than doing nothing
