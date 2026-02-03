@@ -33,4 +33,5 @@ minimum target 1 year.
 30-01-2026 - life is unfair if you believe it to be\
 31-01-2026 - believe in what you believe in\
 01-02-2026 - good things come to those who wait\
-02-02-2026 - doing something is better than doing nothing
+02-02-2026 - doing something is better than doing nothing\
+03-02-2026 - if you love someone enough you can let them go
