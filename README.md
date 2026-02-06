@@ -36,4 +36,5 @@ minimum target 1 year.
 02-02-2026 - doing something is better than doing nothing\
 03-02-2026 - if you love someone enough you can let them go\
 04-02-2026 - the best time to start is now\
-05-02-2026 - success tastes even better after the taste of hardwork
+05-02-2026 - success tastes even better after the taste of hardwork\
+06-02-2026 - never take things for granted
