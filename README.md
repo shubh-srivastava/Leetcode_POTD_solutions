@@ -39,4 +39,5 @@ minimum target 1 year.
 05-02-2026 - success tastes even better after the taste of hardwork\
 06-02-2026 - never take things for granted\
 07-02-2026 - Sometimes good things fall apart so better things could fall together\
-08-02-2026 - the best source of motivation is from within
+08-02-2026 - the best source of motivation is from within\
+09-02-2026 - what dosen't break you makes you stronger
