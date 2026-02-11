@@ -42,3 +42,4 @@ minimum target 1 year.
 08-02-2026 - the best source of motivation is from within\
 09-02-2026 - what dosen't break you makes you stronger\
 10-02-2026 - don't worry about the final goal, worry about everything that comes in between it and you
+11-02-2026 - success is not final, failure is not fatal, it is the courage to continue that counts
