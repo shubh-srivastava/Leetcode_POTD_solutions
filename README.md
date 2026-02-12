@@ -41,6 +41,6 @@ minimum target 1 year.
 07-02-2026 - Sometimes good things fall apart so better things could fall together\
 08-02-2026 - the best source of motivation is from within\
 09-02-2026 - what dosen't break you makes you stronger\
-10-02-2026 - don't worry about the final goal, worry about everything that comes in between it and you
-11-02-2026 - success is not final, failure is not fatal, it is the courage to continue that counts
+10-02-2026 - don't worry about the final goal, worry about everything that comes in between it and you\
+11-02-2026 - success is not final, failure is not fatal, it is the courage to continue that counts\
 12-02-2026 - sometimes you got to loose yourself
