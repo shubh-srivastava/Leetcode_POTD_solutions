@@ -44,4 +44,5 @@ minimum target 1 year.
 10-02-2026 - don't worry about the final goal, worry about everything that comes in between it and you\
 11-02-2026 - success is not final, failure is not fatal, it is the courage to continue that counts\
 12-02-2026 - sometimes you got to loose yourself\
-13-02-2026 - don't get too attached to things learn to let go
+13-02-2026 - don't get too attached to things learn to let go\
+14-02-2026 - what's stopping you
