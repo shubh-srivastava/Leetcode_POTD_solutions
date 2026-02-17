@@ -47,7 +47,8 @@ minimum target 1 year.
 13-02-2026 - don't get too attached to things learn to let go\
 14-02-2026 - what's stopping you\
 15-02-2026 - stop expecting start accepting\
-16-02-2026 - you don't get what you wished for, you get what you worked for
+16-02-2026 - you don't get what you wished for, you get what you worked for\
+17-02-2026 - there is no easy path to success
 
 ---
 shubh srivastava
