@@ -51,6 +51,7 @@ minimum target 1 year.
 17-02-2026 - there is no easy path to success\
 18-02-2026 - you are not the mistakes of your past\
 19-02-2026 - The only thing that's standing between you and your goal is the story you keep telling yourself as to why you can't achieve it\
-20-02-2026 - I can't do it is your best luxury
+20-02-2026 - I can't do it is your best luxury\
+21-02-2026 - even the darkest night will end and the sun will rise
 ---
 shubh srivastava
