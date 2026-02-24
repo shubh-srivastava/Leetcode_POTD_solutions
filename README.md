@@ -54,6 +54,7 @@ minimum target 1 year.
 20-02-2026 - I can't do it is your best luxury\
 21-02-2026 - even the darkest night will end and the sun will rise\
 22-02-2026 - failure teaches you a lot\
-23-02-2026 - rewards are cool but hardwork is boring
+23-02-2026 - rewards are cool but hardwork is boring\
+24-02-2026 - you may have time later, but will you have the same opportunity later 
 ---
 shubh srivastava
