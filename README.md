@@ -55,6 +55,7 @@ minimum target 1 year.
 21-02-2026 - even the darkest night will end and the sun will rise\
 22-02-2026 - failure teaches you a lot\
 23-02-2026 - rewards are cool but hardwork is boring\
-24-02-2026 - you may have time later, but will you have the same opportunity later 
+24-02-2026 - you may have time later, but will you have the same opportunity later\
+25-02-2026 - if you had one shot at ceasing everything you ever wanted would you grab it or let it slip
 ---
 shubh srivastava
