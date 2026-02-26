@@ -56,6 +56,7 @@ minimum target 1 year.
 22-02-2026 - failure teaches you a lot\
 23-02-2026 - rewards are cool but hardwork is boring\
 24-02-2026 - you may have time later, but will you have the same opportunity later\
-25-02-2026 - if you had one shot at ceasing everything you ever wanted would you grab it or let it slip
+25-02-2026 - if you had one shot at ceasing everything you ever wanted would you grab it or let it slip\
+26-02-2026 - you only see the shiny days not the dark nights you stayed awake
 ---
 shubh srivastava
