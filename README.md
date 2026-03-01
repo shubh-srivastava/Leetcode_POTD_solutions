@@ -119,6 +119,7 @@ minimum target 1 year.
 
 28-02-2026 - keep hope alive
 
+01-03-2026 - things may seem difficult ,but it's always easier to do them than to run away
 
 ---
 shubh srivastava
