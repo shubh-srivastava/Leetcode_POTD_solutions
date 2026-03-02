@@ -121,5 +121,7 @@ minimum target 1 year.
 
 01-03-2026 - things may seem difficult ,but it's always easier to do them than to run away
 
+02-03-2026 - people who live in memories, never make one to remember
+
 ---
 shubh srivastava
