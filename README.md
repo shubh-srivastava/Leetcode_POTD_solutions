@@ -123,5 +123,7 @@ minimum target 1 year.
 
 02-03-2026 - people who live in memories, never make one to remember
 
+03-03-2026 - people change habbits and habbits change people
+
 ---
 shubh srivastava
