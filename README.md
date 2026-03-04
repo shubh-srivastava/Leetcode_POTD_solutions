@@ -125,5 +125,7 @@ minimum target 1 year.
 
 03-03-2026 - people change habbits and habbits change people
 
+04-03-2026 - only losers repeat their mistakes
+
 ---
 shubh srivastava
