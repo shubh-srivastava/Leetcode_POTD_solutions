@@ -127,5 +127,7 @@ minimum target 1 year.
 
 04-03-2026 - only losers repeat their mistakes
 
+05-03-2026 - don't focus on what's gone, focus on what's coming
+
 ---
 shubh srivastava
