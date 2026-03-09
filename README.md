@@ -129,5 +129,12 @@ minimum target 1 year.
 
 05-03-2026 - don't focus on what's gone, focus on what's coming
 
+06-03-2026 - don’t let your circumstances hold you back
+
+07-03-2026 - obstacles are inevitable, but quitting isn’t
+
+08-03-2026 - lose? I don't lose i win, that's my job !!
+
+
 ---
 shubh srivastava
