@@ -135,6 +135,7 @@ minimum target 1 year.
 
 08-03-2026 - lose? I don't lose i win, that's my job !!
 
+09-03-2026 - a ship in harbor is safe, but that is not ships are built fors
 
 ---
 shubh srivastava
