@@ -137,5 +137,7 @@ minimum target 1 year.
 
 09-03-2026 - a ship in harbor is safe, but that is not ships are built fors
 
+10-03-2026 - a seed cannot see the sunlight until it completely breaks through the sunlight
+
 ---
 shubh srivastava
