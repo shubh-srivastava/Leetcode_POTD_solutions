@@ -139,5 +139,18 @@ minimum target 1 year.
 
 10-03-2026 - a seed cannot see the sunlight until it completely breaks through the sunlight
 
+11-03-2026 - If you have done it once, you can do it twice
+
+12-03-2026 - winning is not important, learning to win is important
+
+13-03-2026 - sun burns during the night too, but nobody sees it until it rises 
+
+14-03-2026 - opportunities never give you a second chance, you do !!
+
+15-03-2026 - a bad start does not mean a bad ending
+
+16-03-2026 - you can't hate what you can't see, but you can love what you can't see
+
+
 ---
 shubh srivastava
