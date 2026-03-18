@@ -151,6 +151,9 @@ minimum target 1 year.
 
 16-03-2026 - you can't hate what you can't see, but you can love what you can't see
 
+17-03-2026 - you may not choose when bad things happen, but can choose to always ignore them
+
+18-03-2026 - your hardest times makes your easiest times easier
 
 ---
 shubh srivastava
