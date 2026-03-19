@@ -155,5 +155,7 @@ minimum target 1 year.
 
 18-03-2026 - your hardest times makes your easiest times easier
 
+19-03-2026 - the hardest choice require the strongest will
+
 ---
 shubh srivastava
