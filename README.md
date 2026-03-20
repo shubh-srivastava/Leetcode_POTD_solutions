@@ -157,5 +157,7 @@ minimum target 1 year.
 
 19-03-2026 - the hardest choice require the strongest will
 
+20-03-2026 - the hardest thing to do, is the same thing everyday
+
 ---
 shubh srivastava
