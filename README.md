@@ -159,5 +159,7 @@ minimum target 1 year.
 
 20-03-2026 - the hardest thing to do, is the same thing everyday
 
+21-03-2026 - facts may tell you to not do it, but dreams always tell you to do it
+
 ---
 shubh srivastava
