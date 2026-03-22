@@ -161,5 +161,7 @@ minimum target 1 year.
 
 21-03-2026 - facts may tell you to not do it, but dreams always tell you to do it
 
+22-03-2026 - difficult roads often lead to beautiful destinations
+
 ---
 shubh srivastava
