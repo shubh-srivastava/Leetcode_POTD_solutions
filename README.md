@@ -163,5 +163,7 @@ minimum target 1 year.
 
 22-03-2026 - difficult roads often lead to beautiful destinations
 
+23-03-2026 - people who think bad, face them better
+
 ---
 shubh srivastava
