@@ -169,5 +169,7 @@ minimum target 1 year.
 
 25-03-2026 - you get to choose your limits
 
+26-03-2026 - learning a new skill is like building a bridge while crossing it
+
 ---
 shubh srivastava
