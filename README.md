@@ -171,5 +171,7 @@ minimum target 1 year.
 
 26-03-2026 - learning a new skill is like building a bridge while crossing it
 
+27-03-2026 - you are enough to beleive in yourself
+
 ---
 shubh srivastava
