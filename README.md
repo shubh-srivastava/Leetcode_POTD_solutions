@@ -173,5 +173,7 @@ minimum target 1 year.
 
 27-03-2026 - you are enough to beleive in yourself
 
+28-03-2026 - memories look good when their result is even better
+
 ---
 shubh srivastava
