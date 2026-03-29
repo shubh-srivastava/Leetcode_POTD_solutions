@@ -175,5 +175,9 @@ minimum target 1 year.
 
 28-03-2026 - memories look good when their result is even better
 
+29-03-2026 - everytime you suffer from some pain the next time becomes a bit easier
+
+30-03-2026 - give everything you have for everything you want
+
 ---
 shubh srivastava
