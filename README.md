@@ -179,5 +179,7 @@ minimum target 1 year.
 
 30-03-2026 - give everything you have for everything you want
 
+31-03-2026 - your future is being decided by the choices you make today
+
 ---
 shubh srivastava
