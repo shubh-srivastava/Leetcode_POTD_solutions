@@ -181,5 +181,7 @@ minimum target 1 year.
 
 31-03-2026 - your future is being decided by the choices you make today
 
+01-04-2026 - it only takes one good try, that's it!
+
 ---
 shubh srivastava
