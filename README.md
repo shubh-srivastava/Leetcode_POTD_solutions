@@ -183,5 +183,7 @@ minimum target 1 year.
 
 01-04-2026 - it only takes one good try, that's it!
 
+02-04-2026 - don't change your habbits when you achieve something
+
 ---
 shubh srivastava
