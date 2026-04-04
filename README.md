@@ -185,5 +185,9 @@ minimum target 1 year.
 
 02-04-2026 - don't change your habbits when you achieve something
 
+03-04-2026 - it dosen't matter how many times you try, no one's watching your failures anyways
+
+04-04-2026 - plans can change, dates can change, peple can change but goals can never change
+
 ---
 shubh srivastava
