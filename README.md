@@ -189,5 +189,11 @@ minimum target 1 year.
 
 04-04-2026 - plans can change, dates can change, peple can change but goals can never change
 
+05-04-2026 - don't judge someone based on their actions alone, judge them based on their circumstances
+
+06-04-2026 - your mistaked don't make who you are 
+
+07-04-2026 - repeating a mistake is like making another one
+
 ---
 shubh srivastava
