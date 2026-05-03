@@ -193,7 +193,9 @@ minimum target 1 year.
 
 06-04-2026 - your mistaked don't make who you are 
 
-07-04-2026 - repeating a mistake is like making another one
+07-04-2026 - repeating a mistake is like making another one  
+
+08-04-2026 - what should you so after you succeed? the same thing you did before
 
 ---
 shubh srivastava
