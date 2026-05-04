@@ -197,5 +197,7 @@ minimum target 1 year.
 
 08-04-2026 - what should you so after you succeed? the same thing you did before
 
+09-04-2026 - the road might end but the ride never ends
+
 ---
 shubh srivastava
