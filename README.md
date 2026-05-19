@@ -201,5 +201,8 @@ minimum target 1 year.
 
 10-04-2026 - it's never too late  
 
+11-04-2026 - respect every gift you get, how big or how small  
+
+
 ---
 shubh srivastava
