@@ -203,6 +203,8 @@ minimum target 1 year.
 
 11-04-2026 - respect every gift you get, how big or how small  
 
+12-04-2026 - Don't judge people before you meet them  
+
 
 ---
 shubh srivastava
