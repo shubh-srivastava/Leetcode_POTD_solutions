@@ -205,7 +205,9 @@ minimum target 1 year.
 
 12-04-2026 - don't judge people before you meet them  
 
-13-04-2026 - your help might seem small to you, but it might be very big for others
+13-04-2026 - your help might seem small to you, but it might be very big for others  
+
+14-04-2026 - times can be hard, but you have to be harder than the time
 
 ---
 shubh srivastava
