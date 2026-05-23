@@ -207,7 +207,9 @@ minimum target 1 year.
 
 13-04-2026 - your help might seem small to you, but it might be very big for others  
 
-14-04-2026 - times can be hard, but you have to be harder than the time
+14-04-2026 - times can be hard, but you have to be harder than the time  
+
+15-04-2026 - when things go bad and you don't kno what to do, the best thing to do is first think not not do  
 
 ---
 shubh srivastava
