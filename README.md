@@ -211,7 +211,9 @@ minimum target 1 year.
 
 15-04-2026 - when things go bad and you don't kno what to do, the best thing to do is first think not not do  
 
-16-04-2026 - growth isn't found in moments when everything is perfect
+16-04-2026 - growth isn't found in moments when everything is perfect  
+
+17-04-2026 - the first day to start is the hardest  
 
 ---
 shubh srivastava
