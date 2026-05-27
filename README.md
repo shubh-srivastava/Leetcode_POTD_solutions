@@ -215,7 +215,9 @@ minimum target 1 year.
 
 17-04-2026 - the first day to start is the hardest  
 
-18-04-2026 - the right words by the right person might do the magic
+18-04-2026 - the right words by the right person might do the magic  
+
+19-04-2026 - never evaluate your decisions in anger  
 
 ---
 shubh srivastava
