@@ -219,5 +219,11 @@ minimum target 1 year.
 
 19-04-2026 - never evaluate your decisions in anger  
 
+20-04-2026 - once you face something it no longer remains scary  
+
+21-04-2026 - people might notice your failures, but they only remember your achievements
+
+22-04-2026 - manifestation is real  
+
 ---
 shubh srivastava
