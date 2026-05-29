@@ -225,5 +225,8 @@ minimum target 1 year.
 
 22-04-2026 - manifestation is real  
 
+23-04-2026 - if you want to make everyone happy, sell ice creams  
+
+24-04-2026 - never voice your expectations  
 ---
 shubh srivastava
