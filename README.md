@@ -229,5 +229,7 @@ minimum target 1 year.
 
 24-04-2026 - never voice your expectations  
 
+25-04-2026 - some things may never go your way, but you must never give up  
+
 ---
 shubh srivastava
