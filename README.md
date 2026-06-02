@@ -233,6 +233,8 @@ minimum target 1 year.
 
 26-04-2026 - your best asset is not money it's time  
 
-27-04-2026 - if you don't like the road ending, your walking, start paving another one  
+27-04-2026 - if you don't like the road your are walking, start paving another one  
+
+28-04-2026 - accept what you are and move on  
 ---
 shubh srivastava
