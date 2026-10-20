@@ -1,0 +1,17 @@
+// 19th October 2026
+
+class Solution {
+public:
+    vector<int> targetIndices(vector<int>& nums, int target) {
+        sort(nums.begin(), nums.end());
+
+        vector<int> res;
+        for (int i = 0; i < nums.size(); i++) {
+            if (target == nums[i]) {
+                res.push_back(i);
+            }
+        }
+
+        return res;
+    }
+};
